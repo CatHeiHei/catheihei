@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/catheihei/static/css/main.073c9b0a.css",
+    "main.js": "/catheihei/static/js/main.13226919.js",
+    "static/js/787.95e095f6.chunk.js": "/catheihei/static/js/787.95e095f6.chunk.js",
+    "index.html": "/catheihei/index.html",
+    "main.073c9b0a.css.map": "/catheihei/static/css/main.073c9b0a.css.map",
+    "main.13226919.js.map": "/catheihei/static/js/main.13226919.js.map",
+    "787.95e095f6.chunk.js.map": "/catheihei/static/js/787.95e095f6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.13226919.js"
+  ]
+}

@@ -1,6 +1,6 @@
 import React from "react";
 import { Link, NavLink } from "react-router-dom";
-import logo from "../assets/images/cat-heihei-logo.png";
+import logo from "../assets/images/logo.png";
 
 const Header = () => {
   return (
@@ -21,13 +21,14 @@ const Header = () => {
             </NavLink>
           </li>
           <li>
-            <NavLink
-              to="/about"
+            <a
+              href="https://www.instagram.com/cat_heihei/"
+              target="_blank"
               activeClassName="font-bold"
               className="hover:text-gray-700"
             >
-              About
-            </NavLink>
+              Instagram
+            </a>
           </li>
         </ul>
       </nav>
